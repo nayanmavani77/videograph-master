@@ -36,14 +36,16 @@ You can view a live demo of the template [here](https://example.com).
 
 - HTML5
 - CSS3
-- Bootstrap
+- [Bootstrap](https://getbootstrap.com/)
 - JavaScript
-- jQuery
-- Owl Carousel
-- Magnific Popup
-- MixItUp
-- Masonry
-- SlickNav
+- [jQuery](https://jquery.com/)
+- [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
+- [Magnific Popup](https://dimsemenov.com/plugins/magnific-popup/)
+- [MixItUp](https://www.kunkalabs.com/mixitup/)
+- [Masonry](https://masonry.desandro.com/)
+- [SlickNav](https://github.com/ComputerWolf/SlickNav)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 ## Setup
 
@@ -117,8 +119,6 @@ To customize the template, you can modify the HTML, CSS, and JavaScript files as
 - [SlickNav](https://github.com/ComputerWolf/SlickNav)
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
-
-This content should now be correctly formatted for a README file with proper Markdown syntax for links and lists.
 
 Copyright information for the template can't be altered/removed unless you purchase a license.
 More information about the license is available here: https://colorlib.com/wp/licence/
