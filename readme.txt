@@ -1,10 +1,5 @@
 For more awesome templates please visit https://colorlib.com/wp/templates/
 
-
-Sure! Here is a README file for the provided HTML code, formatted for direct copy-pasting:
-
----
-
 # Videograph | Template
 
 This project is a HTML template named "Videograph." The template is designed for videographers and video production services, featuring various sections such as Header, Hero, Services, Work Gallery, Counter, Team, Blog, Call to Action, and Footer. The template also includes interactive elements such as a video popup, services, and team sections, and a blog carousel.
@@ -122,12 +117,6 @@ To customize the template, you can modify the HTML, CSS, and JavaScript files as
 - [SlickNav](https://github.com/ComputerWolf/SlickNav)
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 
 Copyright information for the template can't be altered/removed unless you purchase a license.
