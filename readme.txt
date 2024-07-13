@@ -1,8 +1,12 @@
 For more awesome templates please visit https://colorlib.com/wp/templates/
 
+Here is the revised README content with proper formatting for Markdown:
+
+---
+
 # Videograph | Template
 
-This project is a HTML template named "Videograph." The template is designed for videographers and video production services, featuring various sections such as Header, Hero, Services, Work Gallery, Counter, Team, Blog, Call to Action, and Footer. The template also includes interactive elements such as a video popup, services, and team sections, and a blog carousel.
+This project is an HTML template named "Videograph." The template is designed for videographers and video production services, featuring various sections such as Header, Hero, Services, Work Gallery, Counter, Team, Blog, Call to Action, and Footer. The template also includes interactive elements such as a video popup, services, and team sections, and a blog carousel.
 
 ## Table of Contents
 
@@ -117,6 +121,14 @@ To customize the template, you can modify the HTML, CSS, and JavaScript files as
 - [SlickNav](https://github.com/ComputerWolf/SlickNav)
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+This content should now be correctly formatted for a README file with proper Markdown syntax for links and lists.
 
 
 Copyright information for the template can't be altered/removed unless you purchase a license.
